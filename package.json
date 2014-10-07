@@ -5,5 +5,9 @@
   "readmeFilename": "Readme.md",
   "homepage": "https://github.com/rafaelcastrocouto/db.csv",
   "license": "GPL",
-  "description": "Simple single csv file database"
+  "description": "Simple single csv file database",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelcastrocouto/db.csv"
+  }
 }
