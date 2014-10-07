@@ -1,0 +1,9 @@
+{
+  "name": "db.csv",
+  "main": "db.js",
+  "version" : "0.0.1",
+  "readmeFilename": "Readme.md",
+  "homepage": "https://github.com/rafaelcastrocouto/db.csv",
+  "license": "GPL",
+  "description": "Simple single csv file database"
+}
